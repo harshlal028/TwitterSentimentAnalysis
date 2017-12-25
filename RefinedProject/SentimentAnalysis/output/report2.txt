@@ -1,0 +1,18 @@
+=======================================================
+Total Correct Classification = 15
+Total InCorrect Classification = 2
+Total No. of Comments Classified  = 17
+Accuracy = 0.8823529411764706
+=======================================================
+=======================================================
+CORRECT Classified Offensive = 6
+INCORRECT Classified Offensive = 0
+TOTAL Classified Offensive =6
+True Positive Accuracy = 1.0
+=======================================================
+=======================================================
+CORRECT Classified NonOffensive = 9
+INCORRECT Classified NonOffensive = 2
+TOTAL Classified Non Offensive =11
+True Negative Accuracy = 0.8181818181818182
+=======================================================
